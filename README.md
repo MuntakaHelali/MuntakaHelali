@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, C#, HTML & CSS**
 
-- 📫 Reach me on [Gmail](helali.muntaka@gmail.com) & [LinkedIn](https://www.linkedin.com/in/MuntakaHelali/)
+- 📫 Email **helali.muntaka@gmail.com**
 
 - ⚡ Fun fact **Love to play sports and video games!**
 
