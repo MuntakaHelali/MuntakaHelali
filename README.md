@@ -1,4 +1,4 @@
-<!--[![Banner]()](https://github.com/MuntakaHelali)-->
+[![Banner](./assets/banner-github.png)](https://github.com/MuntakaHelali)
 <h1 align="center">Hi 👋, I'm Muntaka</h1>
 <h3 align="center">Aspiring developer that focuses on turning ideas into code and building innovative solutions</h3>
 
