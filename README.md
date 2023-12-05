@@ -1,6 +1,6 @@
 <!--[![Banner]()](https://github.com/MuntakaHelali)-->
 <h1 align="center">Hi 👋, I'm Muntaka</h1>
-<h3 align="center">Aspiring developer that focuses on turning ideas into code and building innovative solutions!</h3>
+<h3 align="center">Aspiring developer that focuses on turning ideas into code and building innovative solutions</h3>
 
 - 🔭 I’m currently working on **Responsive Web Design**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **helali.muntaka@gmail.com**
 
-- ⚡ Fun fact **Love to play sports and video games in my spare time**
+- ⚡ Fun fact **Love to play sports and video games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
