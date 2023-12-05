@@ -5,13 +5,17 @@
 <h1 align="center">Hi 👋, I'm Muntaka</h1>
 <h3 align="center">Aspiring developer that focuses on turning ideas into code and building innovative solutions</h3>
 
+- 👀 Seeking Developer and Analyst positions
+
+- 🎓 Graduated with BSc in Computer Science from Toronto Metropolitan University (Ryerson) 2021
+
 - 🔭 I’m currently working on **Responsive Web Design**
 
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Python, C#, HTML & CSS**
 
-- 📫 How to reach me **helali.muntaka@gmail.com**
+- 📫 Reach me on [Gmail](helali.muntaka@gmail.com) & [LinkedIn](https://www.linkedin.com/in/MuntakaHelali/)
 
 - ⚡ Fun fact **Love to play sports and video games!**
 
