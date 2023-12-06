@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, C#, HTML & CSS**
 
-- 📫 Email **helali.muntaka@gmail.com**
+- 📫 Email **<a href="mailto:helali.muntaka@gmail.com">Send an Email!</a>**
 
 - ⚡ Fun fact **Love to play sports and video games!**
 
