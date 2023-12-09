@@ -2,7 +2,7 @@
   <img src="./assets/banner-github.png" alt="Banner" width="1920" height="200">
 </a>
 
-<h1 align="center">Hi 👋, I'm Muntaka</h1>
+<h1 align="center">Hi 👋, I'm Muntaka Helali</h1>
 <h3 align="center">Aspiring developer that focuses on turning ideas into code and building innovative solutions</h3>
 
 - 👀 Seeking Developer and Analyst positions
