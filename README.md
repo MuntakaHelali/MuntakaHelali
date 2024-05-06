@@ -9,11 +9,11 @@
 
 - 🎓 Graduated with BSc in Computer Science from Toronto Metropolitan University (Ryerson) 2021
 
-- 🔭 I’m currently working on **Responsive Web Design**
+- 🔭 I’m currently working on **Front-End Development/Responsive Web Design**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **React/AWS/A+**
 
-- 💬 Ask me about **Python, C#, HTML & CSS**
+- 💬 Ask me about **Python, C#, HTML & CSS, JavaScript**
 
 - 📫 Email **<a href="mailto:helali.muntaka@gmail.com">Send an Email!</a>**
 
